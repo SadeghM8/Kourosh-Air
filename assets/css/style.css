@@ -19,7 +19,8 @@ html {
 }
 
 body {
-  font-family: "Estedad", Arial, sans-serif; 
+  font-family: "Estedad", Arial, sans-serif;
+  scroll-behavior: smooth; 
 }
 
 footer li {
@@ -90,6 +91,10 @@ a {
   .btn:hover, .btn:active, .btn:focus {
     -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1); }
+
+.more {
+  margin-right: 3rem;
+}
 
 .login-btn {
   background: transparent;
