@@ -24,4 +24,3 @@ This project is designed to demonstrate clean UI, responsive layouts, and a mode
 This project was developed as part of my **front-end practice** to build realistic and functional web templates.  
 
 🔗 [Live Demo](https://sadeghm8.github.io/Kourosh-Air/)  
-📂 [Repository](https://github.com/SadeghM8/Kourosh-Air)
